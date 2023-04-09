@@ -1,0 +1,21 @@
+WORK DIVISION
+
+PROGRAMMING, ARCHITECTURE AND INSTRUCTION SET DESIGN
+    UMER ABDULLAH KHAN
+    ABDUL RAFAY
+
+includes designing of the control signal instruction set
+and writing hex instruction code for Fibbonaci sequence.
+
+CPU SIMULATION DESIGN, INTEGRATION AND TESTING
+    MUHAMMAD HASSAN JAVED
+    MALIK ASFAR AHMAD
+    MUHAMMAD ABDULLAH MUSTAFA
+
+includes designing the simulation, integrating all the components 
+of the CPU and testing the functionality of the CPU as a whole.
+
+GITHUB REPOSITORY MANAGMENT
+    Umer Abdullah Khan
+
+includes setting up of a GITHUB repository and managing collaborations.
